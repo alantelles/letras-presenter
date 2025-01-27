@@ -1,4 +1,4 @@
-Anúncios Domingo
+Anúncios
 Programação semanal
 
 Anúncios
@@ -18,28 +18,17 @@ Condomínio Rosário
 Culto de estudo bíblico
 
 Terça-feira
+21:00
 Rua Amarela, 38/101
 Dom Bosco 
 Irmão Jorge Luiz 
 Célula homens
 
 Quarta-feira
-19:00 às 20:00
+19:00
 Rua Rosa, 468/101
 Irmã Leila
-Célula Mulheres 
-
-Terça-feira
-Rua Amarela, 38/101
-Dom Bosco 
-Irmão Jorge Luiz 
-Célula homens
-
-Quarta-feira
-19:00 às 20:00
-Rua Rosa, 468/101
-Irmã Leila
-Célula Mulheres 
+Célula Mulheres
 
 Sexta-feira
 19:30
@@ -48,3 +37,7 @@ Culto de libertação
 Domingo
 18:00
 Culto da família
+
+Campanha do Kilo
+Traga sua doação de alimentos
+1 Kg de alimento não perecível
