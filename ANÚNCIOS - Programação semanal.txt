@@ -53,6 +53,4 @@ Culto da família
 
 Campanha do Kilo
 Traga sua doação de alimentos
-1 Kg de alimento não perecíveloutra linha
-outra linha
-outra linha
+1 Kg de alimento não perecível
