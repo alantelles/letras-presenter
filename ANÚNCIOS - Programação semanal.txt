@@ -40,12 +40,8 @@ Excepcionalmente
 20:00 à 00:00
 
 Cantina
-Rissole
-R$ 3,50 (grande)
-R$ 2,00 (pequeno)
 Coxinha
-R$ 4,00 (grande)
-R$ 2,00 (pequeno)
+R$ 4,00
 
 Domingo
 18:00
