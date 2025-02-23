@@ -47,8 +47,6 @@ Toque No Altar
 :Marcelo - A
 
 
-aguas purificadoras
-
 Águas Purificadoras
 Diante do Trono
 
@@ -65,6 +63,7 @@ E este rio está neste lugar
 Quero beber do Teu rio, Senhor
 Sacia a minha sede
 Lava o meu interior
+
 Eu quero fluir em Tuas águas
 Eu quero beber da Tua fonte
 Fonte de águas vivas
@@ -86,6 +85,7 @@ E este rio está neste lugar
 Quero beber do Teu rio, Senhor
 Sacia a minha sede
 Lava o meu interior
+
 Eu quero fluir em Tuas águas
 Eu quero beber da Tua fonte
 Fonte de águas vivas
@@ -104,6 +104,7 @@ Tu és a fonte, Senhor
 Quero beber do Teu rio, Senhor
 Sacia a minha sede
 Lava o meu interior
+
 Eu quero fluir em Tuas águas
 Eu quero beber da Tua fonte
 Fonte de águas vivas
@@ -114,6 +115,7 @@ Tu és o rio, Senhor
 Quero beber do Teu rio, Senhor
 Sacia a minha sede
 Lava o meu interior
+
 Eu quero fluir em Tuas águas
 Eu quero beber da Tua fonte
 Fonte de águas vivas
@@ -121,11 +123,13 @@ Fonte de águas vivas
 Tu és a fonte, Senhor
 Tu és o rio, Senhor
 Tu és a fonte, Senhor
+
 Tu és o rio, Senhor
 Tu és a fonte, Senhor
 
 Tu és a fonte, Senhor
 Tu és o rio, Senhor
+
 Tu és a fonte, Senhor
 Tu és o rio, Senhor
 Tu és a fonte, Senhor
