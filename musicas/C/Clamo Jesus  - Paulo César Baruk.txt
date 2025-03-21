@@ -18,6 +18,7 @@ Clamo Jesus
 Teu nome é cura
 É poderoso
 Teu nome é vida
+
 Destrói cadeias
 Dissipa as trevas
 Vem incendiar
@@ -34,6 +35,7 @@ Clamo Jesus
 Teu nome é cura
 É poderoso
 Teu nome é vida
+
 Destrói cadeias
 Dissipa as trevas
 Vem incendiar
@@ -53,6 +55,7 @@ Jesus
 Teu nome é cura
 É poderoso
 Teu nome é vida
+
 Destrói cadeias
 Dissipa as trevas
 Vem incendiar
