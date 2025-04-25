@@ -3,7 +3,7 @@ Programação semanal
 
 Anúncios
 
-Segunda-feira
+:Segunda-feira
 19:00
 Célula Marinha
 Condomínio Rosário
@@ -19,11 +19,6 @@ Dom Bosco
 Irmão Jorge Luiz 
 Célula homens
 
-:Célula homens
-Excepcionalmente
-Não ocorrerá nas próximas
-duas terças-feiras
-
 Quarta-feira
 19:30
 Rua Rosa, 468/101
@@ -38,24 +33,15 @@ Domingo
 18:00
 Culto da família
 
-Tarde rosa
-Evento para as mulheres 
-Vai remarcar
-18:00
-
-Vigília
+:Vigília
 3° sábado do mês
-12 de abril
 23:00
 
-Cantina
+:Cantina
 Bolinho de aipim- 4,00
 Empadão - 7,00
 
-Campanha do Kilo
+:Campanha do Kilo
 Traga sua doação de alimentos
 1 Kg de alimento não perecível
-
-Amanhã terá linpeza da 
-igreja às 08:30
 
