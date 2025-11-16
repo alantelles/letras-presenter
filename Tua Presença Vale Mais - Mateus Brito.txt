@@ -35,6 +35,7 @@ Depois que eu olhei pra Ti
 
 :Refrão 2x
 
+meta:2x
 Tua presença vale mais
 Tua presença vale mais
 Tua presença vale mais
@@ -49,6 +50,7 @@ Depois que eu olhei pra Ti
 
 :Refrão 4x
 
+meta:4x
 Tua presença vale mais
 Tua presença vale mais
 Tua presença vale mais
@@ -56,6 +58,7 @@ Do que a fama, o dinheiro, os prazeres
 
 :Ponte 2x
 
+meta:2x
 Mesmo que eu ganhe o mundo inteiro
 Não perderei a minha alma
 Jesus você é o primeiro
@@ -70,6 +73,7 @@ Depois que eu olhei pra Ti
 
 :Refrão 4x
 
+meta:4x
 Tua presença vale mais
 Tua presença vale mais
 Tua presença vale mais
@@ -77,6 +81,7 @@ Do que a fama, o dinheiro, os prazeres
 
 :Ponte 2x
 
+meta:2x
 Mesmo que eu ganhe o mundo inteiro
 Não perderei a minha alma
 Jesus você é o primeiro
