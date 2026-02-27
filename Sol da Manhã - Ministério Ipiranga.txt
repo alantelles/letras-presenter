@@ -1,7 +1,8 @@
 Sol da Manhã
 Ministério Ipiranga
 
-_(2x)_
+:2x
+
 Os céus declaram
 A tua glória
 E o firmamento
@@ -17,7 +18,8 @@ Sol da manhã
 Sol da manhã
 Jesus
 
-_(2x)_
+:2x
+
 Os céus declaram
 A tua glória
 E o firmamento
@@ -43,10 +45,13 @@ Sol da manhã
 Sol da manhã
 Jesus
 
-_(4x)_
+:4x
+
 Aquele que era
 Aquele que é
 E que há de vir
 
-Sol da manhã (3x)
+:3X
+
+Sol da manhã 
 Jesus
