@@ -7,7 +7,7 @@ A minh'alma suspira e desfalece pelos Teus átrios!
 
 O pardal encontrou casa
 A andorinha ninho para si
-Eu encontrei Teus altares
+
 Eu encontrei Teus altares
 Senhor Rei meu e Deus meu
 
@@ -18,7 +18,7 @@ Vale mais que mil
 
 O pardal encontrou casa
 A andorinha ninho para si
-Eu encontrei teus altares
+
 Eu encontrei Teus altares
 Senhor Rei meu e Deus meu
 
@@ -29,5 +29,6 @@ Corretamente
 
 O pardal encontrou casa
 A andorinha ninho para si
+
 Eu encontrei teus altares
 Senhor rei meu e Deus meu

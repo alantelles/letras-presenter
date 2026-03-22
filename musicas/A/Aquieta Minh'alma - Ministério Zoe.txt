@@ -1,7 +1,8 @@
 Aquieta Minh'alma
 Ministério Zoe
 
-_(2x)_
+:2x
+
 Aquieta minh'alma
 Faz meu coração ouvir Tua voz
 Me chama pra perto
@@ -36,7 +37,8 @@ Me lançar
 No Teu amor
 No Teu amor, Senhor
 
-_(2x)_
+:2x
+
 O tempo não pode apagar
 As muitas águas nunca levarão o amor
 Que Você sente por mim, eu sei
@@ -60,7 +62,8 @@ Me segurando
 Me assegurando de que tudo vai ficar bem
 Tudo vai ficar bem
 
-_(2x)_
+:2x
+
 E se eu cair
 A Tua mão me levantará
 E se eu chorar
