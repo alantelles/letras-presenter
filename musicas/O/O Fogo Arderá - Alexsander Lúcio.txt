@@ -57,7 +57,8 @@ E buscar as canções mais lindas pra cantar
 Se eu não for uma canção que alegra a Ti
 Se o meu coração não queimar por Ti
 
-_(4x)_
+:4x
+
 E o fogo arderá sobre o altar
 Continuamente sobre o altar
 E não se apagará
