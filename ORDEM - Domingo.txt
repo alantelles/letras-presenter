@@ -1,6 +1,7 @@
 ORDEM
 Domingo
 
+<<<<<<< HEAD
 Deus de Amor
 Renascer Praise
 C
@@ -16,9 +17,36 @@ F#
 Pai, Eu Confiarei
 Bruna Karla
 D
+=======
+Ousado Amor
+Isaías Saad
+Lourdes - F#m
 
-Oferta
+Abram-se Os Portais
+PIBR Vila Belga
+Alan - Abm
 
+Em Teus Braços
+Laura Souguellis
+Lourdes - G
+
+Emaús
+Templo Soul
+Alan - C
+
+Tu és
+Fhop Music
+Lourdes/Alan - C
+>>>>>>> 4004cb5f11b24057f44f2ef0cf21ed98722d9919
+
+*Oferta:*
+
+<<<<<<< HEAD
 Ele É Exaltado
 Adhemar de Campos
 A
+=======
+Redentor (nossa versão)
+Marcelo Markes
+Alan - C
+>>>>>>> 4004cb5f11b24057f44f2ef0cf21ed98722d9919
