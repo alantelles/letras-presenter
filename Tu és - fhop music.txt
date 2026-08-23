@@ -20,7 +20,7 @@ Não precisarei aqui voltar
 Pra minha sede saciar
 Uma vez que eu já ouvi Teu falar
 
-_(2x)_
+:2x
 Tu és por quem a minh'alma esperou
 A fonte da vida que me encontrou
 És o dom de Deus, o Messias
@@ -46,6 +46,7 @@ Pra minha sede saciar
 Uma vez que eu já ouvi Teu falar
 
 _(2x)_
+
 Tu és por quem a minh'alma esperou
 A fonte da vida que me encontrou
 És o dom de Deus, o Messias
@@ -60,7 +61,8 @@ Não precisarei aqui voltar
 Pra minha sede saciar
 Uma vez que eu já ouvi Teu falar
 
-_(2x)_
+:2x
+
 Tu és por quem a minh'alma esperou
 A fonte da vida que me encontrou
 És o dom de Deus, o Messias
