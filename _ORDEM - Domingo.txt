@@ -1,7 +1,6 @@
 _ORDEM
 Domingo
 
-<<<<<<< HEAD
 Sinto Fluir
 Alan/Lourdes - F
 
@@ -11,17 +10,11 @@ Alan - A
 Reina o Senhor
 Lourdes - Dm
 
+Lindo Momento
+Alan - A
+
 Oferta
 
 Deserto
 Arianne
 Lourdes - A
-=======
-1- Te amo tanto
-
-2-Puro nardo
-
-3-Quero me apaixonar outra vez
-
-4- Eu quero me esvaziar
->>>>>>> origin/culto-de-hoje
